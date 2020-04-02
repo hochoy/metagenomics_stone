@@ -1,0 +1,1 @@
+/Users/davidchoy/Developer/courses/setup:/Users/davidchoy/mothur:/Users/davidchoy/.pyenv/shims:/usr/local/bin:/usr/local/sbin:~/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/TeX/texbin:/Users/davidchoy/go-workspace/bin:/usr/local/opt/go/libexec/bin:/Users/davidchoy/Analysis_of_gut/metagenomics/input/blast/
